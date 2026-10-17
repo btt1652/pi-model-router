@@ -1,0 +1,18 @@
+{
+  "name": "pi-model-router",
+  "version": "1.0.0",
+  "description": "OpenRouter free model picker — ranks free models by capability for Pi coding agent",
+  "type": "module",
+  "main": "extensions/free-model-selector.ts",
+  "keywords": [
+    "pi-package",
+    "pi-coding-agent",
+    "extension",
+    "openrouter",
+    "free-models"
+  ],
+  "license": "MIT",
+  "peerDependencies": {
+    "@earendil-works/pi-coding-agent": ">=0.79"
+  }
+}
